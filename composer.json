@@ -1,10 +1,10 @@
 {
-    "name": "scylabs/neptune-bundle",
-    "type": "symfony-bundle",
+    "name": "42-9/NeptuneBundleMenu",
+    "type": "symfony-bundle-menu",
     "keywords": [
         "User management"
     ],
-    "homepage": "https://github.com/ScyLabs/NeptuneBundle",
+    "homepage": "https://github.com/42-9/NeptuneBundleMenu.git",
     "license": "MIT",
     "description": "Admin bundle all in one",
     "require": {
@@ -28,8 +28,8 @@
     },
     "authors": [
         {
-            "name": "Alexandre Sciacca",
-            "email": "alexandre.sciacca@gmail.com"
+            "name": "Studio 42°9",
+            "email": "contact@42-9.studio"
         }
     ]
 }
